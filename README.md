@@ -1,0 +1,41 @@
+# powiadomienie<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Przenosiny na czas letni</title>
+</head>
+<body>
+  <header>
+    <h1>Przenosiny na czas letni</h1>
+    <img src="logo.png" alt="Logo" width="200">
+  </header>
+
+  <main>
+    <h2>Informacje o przenosinach</h2>
+    <p>
+      W związku z nadchodzącym okresem letnim, wszyscy mieszkańcy będą musieli przenieść się na najbliższe jezioro i zamieszkać pod namiotem. Prosimy zapoznać się z poniższymi informacjami:
+    </p>
+    <ul>
+      <li>Data rozpoczęcia przenosin: XX.XX.XXXX</li>
+      <li>Data zakończenia przenosin: XX.XX.XXXX</li>
+      <li>Lokalizacja jeziora: [Nazwa jeziora]</li>
+      <li>Zalecenia dotyczące pakowania:</li>
+      <ul>
+        <li>Prowiant na X dni</li>
+        <li>Namiot</li>
+        <li>Śpiwór</li>
+        <li>Mata do spania</li>
+        <li>...</li>
+      </ul>
+    </ul>
+
+    <h2>Galeria zdjęć</h2>
+    <img src="image1.jpg" alt="Krajobraz jeziora" width="300">
+    <img src="image2.jpg" alt="Namiotowe obozowisko" width="300">
+  </main>
+
+  <footer>
+    <p>Wszelkie prawa zastrzeżone &copy; 2023</p>
+  </footer>
+</body>
+</html>
